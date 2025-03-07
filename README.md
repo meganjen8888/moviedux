@@ -1,16 +1,18 @@
-# Situation:  
+# Moviedux
+
+## Situation:  
 Need to have experiences about React/node.js
 
-# Task:  
+## Task:  
 Build a React app that can search and show movie information details
 
-# Action:
+## Action:
 
 Research and study subject which is central to React: Document Object Model (DOM) is a logical tree that describes a document in html in browser.
 
 Research on Google/github/stackoverflow example to build React application structure, starts to compose entry point of React app, which is app.js
 
-# Result:
+## Result:
 A simple but functional web application by React:
 ![image](https://github.com/user-attachments/assets/0466b13d-847d-4e60-ae47-b694689870c6)
 
