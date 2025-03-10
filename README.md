@@ -14,7 +14,6 @@ Research on Google/github/stackoverflow example to build React application struc
 
 ## Result:
 A simple but functional web application by React:
-![image](https://github.com/user-attachments/assets/0466b13d-847d-4e60-ae47-b694689870c6)
 
 # About creating React App:
 
